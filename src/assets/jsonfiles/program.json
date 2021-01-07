@@ -1,0 +1,35 @@
+{
+  "type": "Majlise Chehlum",
+  "name": "Syed Abbas Mustafa Faizi",
+  "father_name": "Syed Abbas Husain",
+  "Date": "26 Dec 2020",
+  "time": "Baad namaz zohrain",
+  "address": {
+    "place": "Dargahe Fatimaan",
+    "disrtict": "Varanasi",
+    "latitude": 25.3176,
+    "longitude": 82.9739
+  },
+  "quran_khani": "10:00am",
+  "sozkhan": "Liyaqat Ali Khan sb wa hamnawa",
+  "peshakhan": "Prof Aziz Haider, Dr. Shafiq Haider",
+  "zakir": "Syed Mohammad Aslam Rizavi",
+  "zakir_add": "Pune",
+  "nahuhakhaani": "Anjuman Haidri, chowk varanasi",
+  "note": "Zanani malis 3 baje din main kashana e Mehsar dalmandi main hogi.",
+  "live_on": "Youtube channel Varanasi Azadari and Banaras ke azadar",
+  "contact_numbers": [
+    "9415302920",
+    "945888786"
+  ],
+  "personal_info": {
+    "name": "Sher Ali",
+    "contact": {
+      "phone": [
+        "9990631507",
+        "8076931547"
+      ],
+      "email": "sherali_ali@yahoo.com"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+<div class="wrapper fadeInDown">
+    
+    <div id="formContent" >
+    <div>
+        <img src="assets/img/logo.svg" width="100">
+    </div>
+      <form [formGroup]="userForm" (submit)="LoginProcess()">
+        <input type="text" class="fadeIn second" name="email" formControlName="email" placeholder="login">
+        <input type="password" class="fadeIn third" name="password" formControlName="password" placeholder="password">
+        <input type="submit" class="fadeIn fourth" value="Login">
+        </form>
+    </div>
+    
+  </div>
